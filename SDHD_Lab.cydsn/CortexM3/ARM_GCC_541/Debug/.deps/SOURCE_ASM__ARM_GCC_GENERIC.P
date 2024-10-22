@@ -1,0 +1,10 @@
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/CortexM3/ARM_GCC_541/Debug/CyBootAsmGnu.o : D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cydevicegnu.inc D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyfittergnu.inc 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/CyBootAsmGnu.s : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cydevicegnu.inc : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cydevicegnu_trm.inc : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyfittergnu.inc : 
+

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="SDHD_Lab-000\SDHD_Lab\source\main.c">
+<ExpandedNodeIds>
+<v>SDHD_Lab-000</v>
+<v>SDHD_Lab-000\SDHD_Lab</v>
+<v>SDHD_Lab-000\SDHD_Lab\TopDesign</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Pins</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Analog</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Clocks</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Interrupts</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\DMA</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\System</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Directives</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Flash Security</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\EEPROM</v>
+<v>SDHD_Lab-000\SDHD_Lab\source</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\arm_common_tables.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\arm_const_structs.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\arm_math.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\fft_application.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\libfft_application.a</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\cyapicallbacks.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\main.c</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SDHD_Lab-000</v>
+<v>SDHD_Lab-000\SDHD_Lab</v>
+<v>SDHD_Lab-000\SDHD_Lab\TopDesign</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Pins</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Analog</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Clocks</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Interrupts</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\DMA</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\System</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Directives</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\Flash Security</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.cydwr\EEPROM</v>
+<v>SDHD_Lab-000\SDHD_Lab\source</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\arm_common_tables.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\arm_const_structs.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\arm_math.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\fft_application.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\fft_application\libfft_application.a</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\cyapicallbacks.h</v>
+<v>SDHD_Lab-000\SDHD_Lab\source\main.c</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\ADC</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\ADC_AMux</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\ADC_Ext_CP_Clk</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\ADC_In</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\ADC_IRQ</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\ADC_theACLK</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\cy_boot</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\DAC_Out</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\Em_EEPROM_Dynamic</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\Green_LED</v>
+<v>SDHD_Lab-000\SDHD_Lab\Generated_Source\PSoC5\isr_button</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SDHD_Lab-000</v>
+<v>SDHD_Lab-000\SDHD_Lab</v>
+<v>SDHD_Lab-000\SDHD_Lab\TopDesign</v>
+<v>SDHD_Lab-000\SDHD_Lab\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SDHD_Lab-000</v>
+<v>SDHD_Lab-000\SDHD_Lab</v>
+<v>SDHD_Lab-000\SDHD_Lab\TopDesign</v>
+<v>SDHD_Lab-000\SDHD_Lab\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SDHD_Lab-000</v>
+<v>SDHD_Lab-000\SDHD_Lab</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_AMux.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_theACLK.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\Green_LED.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_button.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_UART.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\Push_button.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\Red_LED.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_DacClk.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_PM.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_VDAC8.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_VDAC8_PM.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_Wave1_DMA_dma.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\WaveDAC_Wave2_DMA_dma.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\Yellow_LED.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\SDHD_Lab.elf</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\SDHD_Lab.hex</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\SDHD_Lab.map</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.gpdsc</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab.rpt</v>
+<v>SDHD_Lab-000\SDHD_Lab\SDHD_Lab_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SDHD_Lab-000</v>
+<v>SDHD_Lab-000\SDHD_Lab</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_AMux.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_Ext_CP_Clk.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_INT.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_IRQ.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_PM.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\ADC_theACLK.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\Cm3Start.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CyDmac.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\CySpc.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\Green_LED.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_button.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\isr_UART.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\Push_button.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\Red_LED.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_INT.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_IntClock.lst</v>
+<v>SDHD_Lab-000\SDHD_Lab\CortexM3\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>SDHD_Lab-000</v>
+<v>SDHD_Lab-000\SDHD_Lab</v>
+<v>SDHD_Lab-000\SDHD_Lab\PSoC 5LP Architecture TRM</v>
+<v>SDHD_Lab-000\SDHD_Lab\CY8C58LP Family Datasheet</v>
+<v>SDHD_Lab-000\SDHD_Lab\System Reference Guides</v>
+<v>SDHD_Lab-000\SDHD_Lab\System Reference Guides\cy_boot_v6_10</v>
+<v>SDHD_Lab-000\SDHD_Lab\ADC_DelSig_v3_30.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_constant_v1_0.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_isr_v1_70.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_isr_v1_71.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_pins_v2_20</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\Gnd_v1_0</v>
+<v>SDHD_Lab-000\SDHD_Lab\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\LED_v1_0</v>
+<v>SDHD_Lab-000\SDHD_Lab\LED_v1_0\LED_v1_0.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\Resistor_v1_0</v>
+<v>SDHD_Lab-000\SDHD_Lab\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\UART_v2_50.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\WaveDAC8_v2_10.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>SDHD_Lab-000</v>
+<v>SDHD_Lab-000\SDHD_Lab</v>
+<v>SDHD_Lab-000\SDHD_Lab\PSoC 5LP Architecture TRM</v>
+<v>SDHD_Lab-000\SDHD_Lab\CY8C58LP Family Datasheet</v>
+<v>SDHD_Lab-000\SDHD_Lab\System Reference Guides</v>
+<v>SDHD_Lab-000\SDHD_Lab\System Reference Guides\cy_boot_v6_10</v>
+<v>SDHD_Lab-000\SDHD_Lab\ADC_DelSig_v3_30.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_constant_v1_0.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_isr_v1_70.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_isr_v1_71.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_pins_v2_20</v>
+<v>SDHD_Lab-000\SDHD_Lab\cy_pins_v2_20\cy_pins_v2_20.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\Gnd_v1_0</v>
+<v>SDHD_Lab-000\SDHD_Lab\Gnd_v1_0\Gnd_v1_0.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\LED_v1_0</v>
+<v>SDHD_Lab-000\SDHD_Lab\LED_v1_0\LED_v1_0.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\Resistor_v1_0</v>
+<v>SDHD_Lab-000\SDHD_Lab\Resistor_v1_0\Resistor_v1_0.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\UART_v2_50.pdf</v>
+<v>SDHD_Lab-000\SDHD_Lab\WaveDAC8_v2_10.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\source\main.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1004, 656" SelectedTabbedMdiWindow="39c2edd8-6b2f-4cc9-911f-f554113d739c"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="0ed415e7-510c-4c95-9947-52407b11103f" /><DocumentWindow Key="E:\Subjects\SDHD\Submission\Software_Review_Group_C3\SDHD_Lab.cydsn\source\main.c" Guid="39c2edd8-6b2f-4cc9-911f-f554113d739c" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>

@@ -1,0 +1,26 @@
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/CortexM3/ARM_GCC_541/Debug/cyfitter_cfg.o : D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/CyFlash.h D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/CyLib.h D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/CySpc.h D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyPm.h D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cydevice.h D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyfitter.h D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cytypes.h 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/CortexM3/ARM_GCC_541/Debug/cymetadata.o : D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cymetadata.c 
+
+D:/h_da/sem2/sdhd/lab2/our/review/Software_Review_Group_C3/Software_Review_Group_C3/SDHD_Lab.cydsn/Generated_Source/PSoC5/cymetadata.c : 
+
